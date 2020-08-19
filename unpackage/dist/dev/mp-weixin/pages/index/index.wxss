@@ -1,0 +1,90 @@
+
+.content.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.content .topbar.data-v-57280228 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1000;
+	background: #fff;
+	height: 70rpx;
+	box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
+	text-align: center;
+}
+.content .topbar .title-logo.data-v-57280228 {
+	width: 28px;
+	height: 28px;
+}
+.fill.data-v-57280228 {
+	width: 100%;
+	height: 72rpx;
+}
+.swiper-container.data-v-57280228 {
+	width: 100%;
+}
+.flex-item.data-v-57280228 {
+	text-align: center;
+}
+.flex-item image.data-v-57280228 {
+	width: 30px;
+	height: 30px;
+	display: block;
+	padding: 5px 15px;
+}
+.goods.data-v-57280228 {
+	width: 90%;
+	border-top:1px solid #B2B2B2 ;
+	margin-top:20rpx;
+}
+.goods .list.data-v-57280228{
+	margin: 50rpx 0;
+	box-shadow: 0 4px 4px 0 #BBB;
+	border-radius: 4px;
+}
+.cover image.data-v-57280228 {
+	width: 100%;
+}
+.text.data-v-57280228{
+	padding: 0px 0 0 10px;
+}
+.text .cart.data-v-57280228 {
+	width: 60rpx;
+	height: 60rpx;
+	float: right;
+	margin-top: 20rpx;
+	margin-right: 20rpx;
+	background: url(https://static.21cake.com/themes/wap/img/new-home-icon.png) no-repeat;
+	background-position: -90rpx -10rpx;
+	background-size: 160rpx auto;
+	border-radius: 50%;
+}
+.name.data-v-57280228{
+	font-weight: bold;
+	font-size:15px;
+	color:#322418;
+}
+.price.data-v-57280228{
+	color:#C69C6D;
+	margin-left: 10px;
+}
+.size.data-v-57280228{
+	color:#b2b2b2;
+}
+.des.data-v-57280228{
+	color: #442818;
+}
+
